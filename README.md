@@ -2,6 +2,8 @@
 
 <img src="./screenshot/1.png"  width="100%"/>
 
+*PredP.red application main interface showcasing the prediction market platform*.
+
 * demo url: https://mantlesepoliatestnet.predp.red/market-1
   * need to join https://t.me/+rCkSlNN1cdlhYTg9 submit your wallet address to get testnet USDC as payment first
 * bonding curve: https://www.desmos.com/calculator/feajupdyju
@@ -19,6 +21,8 @@ PredP.red was developed against this backdrop, aiming to leverage the advantages
 
 
 <img src="./screenshot/2.png"  width="100%"/>
+
+*System architecture diagram illustrating the core components and data flow of PredP.red*.
 
 ## 2. Technical Principles
 
@@ -71,6 +75,8 @@ struct Market {
 
 <img src="./screenshot/3.png"  width="100%"/>
 
+*Market creation and trading interface showing the prediction NFT purchase process*.
+
 ### 2.3 Core Function Implementation
 
 #### 2.3.1 Market Creation and Management
@@ -120,6 +126,8 @@ This price model has the following advantages:
 
 <img src="./screenshot/4.png"  width="100%"/>
 
+*Business model diagram depicting PredP.red's value proposition and target user segments*.
+
 ## 3. Business Model
 
 ### 3.1 Value Proposition
@@ -147,6 +155,8 @@ PredP.red provides users with a decentralized prediction market platform with th
 - **Exchanges**: Partner with exchanges to enable trading of PCT, PFT, and other tokens
 
 <img src="./screenshot/5.png"  width="100%"/>
+
+*Revenue model visualization showing fee structures and token economy components*.
 
 ## 4. Revenue Model
 
@@ -176,6 +186,8 @@ PredP.red generates revenue by charging transaction fees, specifically including
 - **API Services**: Provide API services to allow third-party applications to integrate PredP.red functions, with API call fees
 
 <img src="./screenshot/6.png"  width="100%"/>
+
+*Technical innovation diagram highlighting the diamond pattern architecture and price model*.
 
 ## 5. Technical Innovations
 
@@ -210,6 +222,8 @@ Adopts a decentralized governance model where platform parameters and decisions 
 - **Token Economy**: Complete token economic system to incentivize user participation
 
 <img src="./screenshot/7.png"  width="100%"/>
+
+*Market competition analysis comparing PredP.red with existing prediction market platforms*.
 
 ## 7. Development Plan
 
