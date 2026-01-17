@@ -17,6 +17,9 @@ As an information aggregation tool, prediction markets can effectively collect a
 
 PredP.red was developed against this backdrop, aiming to leverage the advantages of blockchain technology to build an efficient, secure, and transparent decentralized prediction market platform.
 
+
+<img src="./screenshot/2.png"  width="100%"/>
+
 ## 2. Technical Principles
 
 ### 2.1 Architecture Design
@@ -66,6 +69,8 @@ struct Market {
 }
 ```
 
+<img src="./screenshot/3.png"  width="100%"/>
+
 ### 2.3 Core Function Implementation
 
 #### 2.3.1 Market Creation and Management
@@ -112,6 +117,9 @@ This price model has the following advantages:
 - **Parameter Validation**: Strictly validates all input parameters to ensure data validity
 - **Event Logging**: All important operations are recorded in event logs for easy auditing and tracking
 
+
+<img src="./screenshot/4.png"  width="100%"/>
+
 ## 3. Business Model
 
 ### 3.1 Value Proposition
@@ -137,6 +145,8 @@ PredP.red provides users with a decentralized prediction market platform with th
 - **Data Providers**: Partner with data providers to ensure accuracy and timeliness of prediction event results
 - **Wallet Providers**: Collaborate with wallet providers to improve user convenience
 - **Exchanges**: Partner with exchanges to enable trading of PCT, PFT, and other tokens
+
+<img src="./screenshot/5.png"  width="100%"/>
 
 ## 4. Revenue Model
 
@@ -164,6 +174,8 @@ PredP.red generates revenue by charging transaction fees, specifically including
 - **Premium Market Features**: Provide premium market features such as custom market parameters, priority settlement, etc., with additional charges
 - **Data Analysis Services**: Provide prediction market data analysis services for institutional users with subscription fees
 - **API Services**: Provide API services to allow third-party applications to integrate PredP.red functions, with API call fees
+
+<img src="./screenshot/6.png"  width="100%"/>
 
 ## 5. Technical Innovations
 
@@ -196,6 +208,8 @@ Adopts a decentralized governance model where platform parameters and decisions 
 - **Price Model**: Non-linear price model better reflects market supply and demand relationships
 - **User Experience**: Optimized user interface and trading process to improve user experience
 - **Token Economy**: Complete token economic system to incentivize user participation
+
+<img src="./screenshot/7.png"  width="100%"/>
 
 ## 7. Development Plan
 
