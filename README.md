@@ -2,7 +2,7 @@
 
 <img src="./screenshot/1.png"  width="100%"/>
 
-*PredP.red application main interface showcasing the prediction market platform*.
+*PredP.red application landing page showcasing the prediction market platform*.
 
 * demo url: https://mantlesepoliatestnet.predp.red/market-1
   * need to join https://t.me/+rCkSlNN1cdlhYTg9 submit your wallet address to get testnet USDC as payment first
@@ -22,7 +22,7 @@ PredP.red was developed against this backdrop, aiming to leverage the advantages
 
 <img src="./screenshot/2.png"  width="100%"/>
 
-*System architecture diagram illustrating the core components and data flow of PredP.red*.
+*PredP.red application main interface showcasing the prediction market platform*.
 
 ## 2. Technical Principles
 
