@@ -1,5 +1,7 @@
 # PredP.red on mantleSepoiliaTestnet
 
+<img src="./screenshot/1.png"  width="100%"/>
+
 * demo url: https://mantlesepoliatestnet.predp.red/market-1
   * need to join https://t.me/+rCkSlNN1cdlhYTg9 submit your wallet address to get testnet USDC as payment first
 * bonding curve: https://www.desmos.com/calculator/feajupdyju
